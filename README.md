@@ -22,5 +22,4 @@
   <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
 
-![snake gif](https://github.com/Deividadrian/Deividadrian/blob/output/github-contribution-grid-snake.svg)
 
